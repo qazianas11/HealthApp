@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    Soft pink: <color name="soft_pink">#FFE5B4E9</color>
+    Peach: <color name="peach">#FFFFB347</color>
+    Pale blue: <color name="pale_blue">#FFADD8E6</color>
+    Mint green: <color name="mint_green">#FF98FB98</color>
+    Lavender: <color name="lavender">#FFBDB2FF</color>
+    Coral: <color name="coral">#FFFF7F50</color>
+    Sky blue: <color name="sky_blue">#FF87CEEB</color>
+    Golden yellow: <color name="golden_yellow">#FFFFD700</color>
+    Light gray: <color name="light_gray">#FFD3D3D3</color>
+    Navy blue: <color name="navy_blue">#FF000080</color>
+    White: <color name="white">#FFFFFFFF</color>
+    Red: <color name="red">#FFFF0000</color>
+    Green: <color name="green">#FF00FF00</color>
+    Blue: <color name="blue">#FF0000FF</color>
+    Cyan: <color name="cyan">#FF00FFFF</color>
+    Magenta: <color name="magenta">#FFFF00FF</color>
+    Yellow: <color name="yellow">#FFFFFF00</color>
+    <color name="colorWhite" />
+</resources>

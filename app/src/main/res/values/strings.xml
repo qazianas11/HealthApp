@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Health App</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="_24_7_bdds">24*7 BDDS</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="signup">Signup</string>
+    <string name="already_have_an_account">Already have an account?</string>
+</resources>
